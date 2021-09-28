@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-d/javax.mail-1.4.7.jar/javax.mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-d/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-d/jackson-annotations-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-d/jackson-core-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-d/jackson-databind-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-d/jeq.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-d/jl1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-d/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-d/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-d/jspeex0.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-d/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-d/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-d/vorbisspi1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-f/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-f/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-f/pi4j-core-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-f/pi4j-core-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-f/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-f/pi4j-device-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-f/pi4j-device-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-f/pi4j-example.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-f/pi4j-example-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-f/pi4j-example-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-f/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-f/pi4j-gpio-extension-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-f/pi4j-gpio-extension-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler_c/basicplayer3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler_c/mp3plugin .jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler_c/mp3transform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/Yedek_Busra/eclipse-kütüphaneler-1-8/jfxrt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

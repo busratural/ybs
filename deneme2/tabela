@@ -1,0 +1,424 @@
+[{
+  "Tabela": {
+    "TabelaAdi": "MESCID-Ý SELAM",
+      "Led": "  MESCID-Ý     SELAM     ", 
+    "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+  }
+},
+  {
+    "Tabela": {
+      "TabelaAdi": "CEBECÝ",
+     "Led": "C E B E C Ý", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "SULTAN ÇÝFTLÝÐÝ",
+      "Led": "   SULTAN     ÇÝFTLÝÐÝ      ", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "YENÝMAHALLE",
+"Led": "YENÝMAHALLE", 
+     "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "HACI ÞÜKRÜ",
+"Led": " HACI ÞÜKRÜ", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "50.YIL BAÞTABYA",
+ "Led": "   50. YIL    BAÞTABYA     ", 
+     "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "CUMHURÝYET MAHALLESÝ",
+      "Led": " CUMHURÝYET  MAHALLESÝ   ", 
+     "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "KÝPTAÞ-VENEZIA",
+ "Led": "   KÝPTAÞ      VENEZIA   ", 
+     "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "KARADENÝZ",
+"Led": " KARADENÝZ ", 
+     "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "TAÞKÖPRÜ",
+"Led": "  TAÞKÖPRÜ  ", 
+"cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "A. FUAT BAÞGÝL",
+"Led": "  ALÝ FUAT     BAÞGÝL   ", 
+    "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "BOSNA ÇUKURÇEÞME",
+      "Led": "    BOSNA    ÇUKURÇEÞME   ", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "SAÐMALCILAR",
+ "Led": "SAÐMALCILAR", 
+     "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "ULUYOL BEREC",
+"Led": "ULUYOL BEREC", 
+     "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "RAMÝ",
+"Led": "  R A M Ý", 
+    "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "TOPÇULAR",
+    "Led": "  TOPÇULAR", 
+     "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "DEMÝRKAPI",
+"Led": " DEMÝRKAPI", 
+     "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "ÞEHÝTLÝK",
+"Led": "  ÞEHÝTLÝK", 
+   "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "EDÝRNEKAPI",
+   "Led": " EDÝRNEKAPI", 
+     "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "VATAN",
+ "Led": "  V A T A N ", 
+     "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "FETÝHKAPI",
+"Led": "  FETÝHKAPI", 
+   "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "TOPKAPI",
+      "Led": "  TOPKAPI", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+
+  },
+   {
+    "Tabela": {
+      "TabelaAdi": "DEPO",
+      "Led": "  DEPO", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+
+  },
+   {
+    "Tabela": {
+      "TabelaAdi": "SERVÝS DIÞI",
+      "Led": "SERVÝS DIÞI", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+
+  },
+   {
+    "Tabela": {
+      "TabelaAdi": "HOSGELDINIZ BASKANIM",
+      "Led": "HOÞGELDÝNÝZ BAÞKANIM", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "G",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+
+  },
+  {
+    "Tabela": {
+      "TabelaAdi": "8 Mart Kadýnlar Günü Kutlu Olsun",
+       "Led": "8 Mart Kadýnlar Günü Kutlu Olsun", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "40",
+      "mesajBeklemeSuresisn_2": "00",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5"
+    }
+
+  }
+]

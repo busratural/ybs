@@ -1,0 +1,463 @@
+[
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "MESCIDI SELAM",
+      "MescidiselamTopkapiMesafe": "710",
+      "MescidiselamTopkapi_Led": "  MESCID I     SELAM     ", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "G",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "15",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": "  TOPKAPI",       
+      "TopkapiMescidiselam": "TOPKAPI",
+      "TopkapiMescidiselamMesafe": "450"
+  }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "CEBECI",
+      "MescidiselamTopkapiMesafe": "680",
+      "MescidiselamTopkapi_Led": "C E B E C I", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "15",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": "  FETIHKAPI",
+      "TopkapiMescidiselam": "FETIHKAPI",
+      "TopkapiMescidiselamMesafe": "570"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "SULTANCIFTLIGI",
+      "MescidiselamTopkapiMesafe": "740",
+      "MescidiselamTopkapi_Led": "   SULTAN     CIFTLIGI      ", 
+      "cihazID_1": "10",
+     "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "G",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": "  V A T A N ",
+      "TopkapiMescidiselam": "VATAN",
+      "TopkapiMescidiselamMesafe": "790"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "YENIMAHALLE",
+      "MescidiselamTopkapiMesafe": "770",
+      "MescidiselamTopkapi_Led": "YENIMAHALLE", 
+      "cihazID_1": "10",
+    "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": " EDIRNEKAPI",
+      "TopkapiMescidiselam": "EDIRNEKAPI",
+      "TopkapiMescidiselamMesafe": "610"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "HACISUKRU",
+      "MescidiselamTopkapiMesafe": "710",
+      "MescidiselamTopkapi_Led": " HACI SUKRU", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "15",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": "  SEHITLIK",
+      "TopkapiMescidiselam": "SEHITLIK",
+      "TopkapiMescidiselamMesafe": "530"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "50.YIL BASTABYA",
+      "MescidiselamTopkapiMesafe": "510",
+      "MescidiselamTopkapi_Led": "   50  YIL    BASTABYA     ", 
+      "cihazID_1": "10",
+     "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "G",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": " DEMIRKAPI",
+      "TopkapiMescidiselam": "DEMIRKAPI",
+      "TopkapiMescidiselamMesafe": "600"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "CUMHURIYET MAHALLESI",
+      "MescidiselamTopkapiMesafe": "370",
+      "MescidiselamTopkapi_Led": " CUMHURIYET  MAHALLESI   ", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "G",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": "  TOPCULAR",
+      "TopkapiMescidiselam": "TOPCULAR",
+      "TopkapiMescidiselamMesafe": "650"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "KIPTAS-VENEZIA",
+      "MescidiselamTopkapiMesafe": "970",
+      "MescidiselamTopkapi_Led": "   KIPTAS      VENEZIA   ", 
+     "cihazID_1": "10",
+     "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "G",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": "  R A M I",
+      "TopkapiMescidiselam": "RAMI",
+      "TopkapiMescidiselamMesafe": "970"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "KARADENIZ",
+      "MescidiselamTopkapiMesafe": "530",
+      "MescidiselamTopkapi_Led": " KARADENIZ ", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "10",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": "ULUYOL BEREC",
+      "TopkapiMescidiselam": "ULUYOL BEREC",
+      "TopkapiMescidiselamMesafe": "450"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "TASKOPRU",
+      "MescidiselamTopkapiMesafe": "800",
+      "MescidiselamTopkapi_Led": "  TASKOPRU  ", 
+      "cihazID_1": "10",
+     "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": "SAGMALCILAR",
+      "TopkapiMescidiselam": "SAGMALCILAR",
+      "TopkapiMescidiselamMesafe": "660"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "A. FUAT BASGIL",
+      "MescidiselamTopkapiMesafe": "930",
+      "MescidiselamTopkapi_Led": "  ALI FUAT     BASGIL   ", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "G",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "G",
+      "TopkapiMescidiselam_Led": "    BOSNA    CUKURCESME   ",
+      "TopkapiMescidiselam": "BOSNA CUKURCESME",
+      "TopkapiMescidiselamMesafe": "930"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "BOSNA CUKURCESME",
+      "MescidiselamTopkapiMesafe": "660",
+      "MescidiselamTopkapi_Led": "    BOSNA    CUKURCESME   ", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "G",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "G",
+      "TopkapiMescidiselam_Led": "  ALI FUAT     BASGIL   ",
+      "TopkapiMescidiselam": "A. FUAT BASGIL",
+      "TopkapiMescidiselamMesafe": "800"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "SAGMALCILAR",
+      "MescidiselamTopkapiMesafe": "450",
+      "MescidiselamTopkapi_Led": "SAGMALCILAR", 
+     "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "15",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": "  TASKOPRU  ",
+      "TopkapiMescidiselam": "TASKOPRU",
+      "TopkapiMescidiselamMesafe": "530"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "ULUYOL BEREC",
+      "MescidiselamTopkapiMesafe": "970",
+      "MescidiselamTopkapi_Led": "ULUYOL BEREC", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": " KARADENIZ ",
+      "TopkapiMescidiselam": "KARADENIZ",
+      "TopkapiMescidiselamMesafe": "970"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "RAMI",
+      "MescidiselamTopkapiMesafe": "650",
+      "MescidiselamTopkapi_Led": "  R A M I", 
+      "cihazID_1": "10",
+     "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "10",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "G",
+      "TopkapiMescidiselam_Led": "   KIPTAS      VENEZIA   ",
+      "TopkapiMescidiselam": "KIPTAS-VENEZIA",
+      "TopkapiMescidiselamMesafe": "370"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "TOPCULAR",
+      "MescidiselamTopkapiMesafe": "600",
+      "MescidiselamTopkapi_Led": "  TOPCULAR", 
+      "cihazID_1": "10",
+     "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "15",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "G",
+      "TopkapiMescidiselam_Led": " CUMHURIYET  MAHALLESI   ",
+      "TopkapiMescidiselam": "CUMHURIYET MAHALLESI",
+      "TopkapiMescidiselamMesafe": "510"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "DEMIRKAPI",
+      "MescidiselamTopkapiMesafe": "530",
+      "MescidiselamTopkapi_Led": " DEMIRKAPI", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "G",
+      "TopkapiMescidiselam_Led": "   50  YIL    BASTABYA     ",
+      "TopkapiMescidiselam": "50.YIL BASTABYA",
+      "TopkapiMescidiselamMesafe": "710"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "SEHITLIK",
+      "MescidiselamTopkapiMesafe": "610",
+      "MescidiselamTopkapi_Led": "  SEHITLIK", 
+      "cihazID_1": "10",
+     "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": " HACI SUKRU",
+      "TopkapiMescidiselam": "HACISUKRU",
+      "TopkapiMescidiselamMesafe": "770"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "EDIRNEKAPI",
+      "MescidiselamTopkapiMesafe": "790",
+      "MescidiselamTopkapi_Led": " EDIRNEKAPI", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": "YENIMAHALLE",
+      "TopkapiMescidiselam": "YENIMAHALLE",
+      "TopkapiMescidiselamMesafe": "740"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "VATAN",
+      "MescidiselamTopkapiMesafe": "570",
+      "MescidiselamTopkapi_Led": "  V A T A N ", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "G",
+      "TopkapiMescidiselam_Led": "   SULTAN     CIFTLIGI      ",
+      "TopkapiMescidiselam": "SULTANCIFTLIGI",
+      "TopkapiMescidiselamMesafe": "680"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "FETIHKAPI",
+      "MescidiselamTopkapiMesafe": "450",
+      "MescidiselamTopkapi_Led": "  FETIHKAPI", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "5",
+      "TopkapiMescidiselam_Led": "C E B E C I",
+      "TopkapiMescidiselam": "CEBECI",
+      "TopkapiMescidiselamMesafe": "710"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "TOPKAPI",
+      "MescidiselamTopkapiMesafe": "1",
+      "MescidiselamTopkapi_Led": "  TOPKAPI", 
+      "cihazID_1": "10",
+      "mesajBeklemeSuresidk_1": "40",
+      "mesajBeklemeSuresisn_1": "00",
+      "mesajHizi_1": "1",
+      "mesajTipi_1": "5",
+      "cihazID_2": "20",
+      "mesajBeklemeSuresidk_2": "00",
+      "mesajBeklemeSuresisn_2": "20",
+      "mesajHizi_2": "1",
+      "mesajTipi_2": "G",
+      "TopkapiMescidiselam_Led": "  MESCID I     SELAM     ",
+      "TopkapiMescidiselam": "MESCIDI SELAM",
+      "TopkapiMescidiselamMesafe": "1"
+
+    }
+  }
+]
