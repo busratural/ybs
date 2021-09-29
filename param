@@ -1,0 +1,16 @@
+[
+  {
+    "takoMetreVerisi": {
+      "takoMetereSabiti": "1",
+      "yaklasimAnonsuMetraj": "400",
+      "varisAnonsuMetraj": "100",
+      "yaklasimLediMetraj": "400",
+      "kapiMetrajiTolerans": "50" ,
+      "yaklasimLediMetrajTolerans": "100"       
+    }
+  }
+
+]
+
+
+  

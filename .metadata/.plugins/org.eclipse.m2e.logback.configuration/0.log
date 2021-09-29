@@ -1,0 +1,57 @@
+2021-09-28 08:22:41,511 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-09-28 08:22:42,026 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2021-09-28 08:23:13,189 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pi4j:pi4j-core:1.0 @ D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-core\pom.xml.
+2021-09-28 08:23:13,340 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 08:23:13,345 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-core\target
+2021-09-28 08:23:13,345 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-core\src\main\resources
+2021-09-28 08:23:13,346 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 08:23:13,347 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-core\src\test\resources
+2021-09-28 08:23:13,623 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pi4j:pi4j-device:1.0 @ D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-device\pom.xml.
+2021-09-28 08:23:13,640 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-core: com.pi4j:pi4j-core:1.0 with classifier  to /pi4j-core/target/classes
+2021-09-28 08:23:13,728 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 08:23:13,728 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-device\target
+2021-09-28 08:23:13,728 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-device\src\main\resources
+2021-09-28 08:23:13,730 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 08:23:13,731 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-device\src\test\resources
+2021-09-28 08:23:13,828 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pi4j:pi4j-example:1.0 @ D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-example\pom.xml.
+2021-09-28 08:23:13,841 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-core: com.pi4j:pi4j-core:1.0 with classifier  to /pi4j-core/target/classes
+2021-09-28 08:23:13,841 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-device: com.pi4j:pi4j-device:1.0 with classifier  to /pi4j-device/target/classes
+2021-09-28 08:23:13,854 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 08:23:13,854 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-example\target
+2021-09-28 08:23:13,856 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 08:23:13,856 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-example\src\test\resources
+2021-09-28 08:23:13,920 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pi4j:pi4j-gpio-extension:1.0 @ D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-gpio-extension\pom.xml.
+2021-09-28 08:23:13,931 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-core: com.pi4j:pi4j-core:1.0 with classifier  to /pi4j-core/target/classes
+2021-09-28 08:23:13,984 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pi4j:pi4j-device:1.0 @ D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-device\pom.xml.
+2021-09-28 08:23:13,988 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-core: com.pi4j:pi4j-core:1.0 with classifier  to /pi4j-core/target/classes
+2021-09-28 08:23:13,989 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-gpio-extension: com.pi4j:pi4j-gpio-extension:1.0 with classifier  to /pi4j-gpio-extension/target/classes
+2021-09-28 08:23:14,047 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pi4j:pi4j-example:1.0 @ D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-example\pom.xml.
+2021-09-28 08:23:14,051 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-core: com.pi4j:pi4j-core:1.0 with classifier  to /pi4j-core/target/classes
+2021-09-28 08:23:14,051 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-gpio-extension: com.pi4j:pi4j-gpio-extension:1.0 with classifier  to /pi4j-gpio-extension/target/classes
+2021-09-28 08:23:14,051 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-device: com.pi4j:pi4j-device:1.0 with classifier  to /pi4j-device/target/classes
+2021-09-28 08:23:14,072 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 08:23:14,072 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-gpio-extension\target
+2021-09-28 08:23:14,072 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-gpio-extension\src\main\resources
+2021-09-28 08:23:14,073 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 08:23:14,073 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-gpio-extension\src\test\resources
+2021-09-28 08:23:14,208 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.pi4j:pi4j-service:1.0 @ D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-service\pom.xml.
+2021-09-28 08:23:14,216 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-core: com.pi4j:pi4j-core:1.0 with classifier  to /pi4j-core/target/classes
+2021-09-28 08:23:14,402 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 08:23:14,402 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-28 08:23:14,402 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-service\target
+2021-09-28 08:23:14,402 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-service\src\main\resources
+2021-09-28 08:23:14,404 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 08:23:14,404 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-28 08:23:14,404 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-service\src\test\resources
+2021-09-28 08:23:15,261 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pi4j:pi4j-core:1.0 @ D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-core\pom.xml.
+2021-09-28 08:23:15,381 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pi4j:pi4j-gpio-extension:1.0 @ D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-gpio-extension\pom.xml.
+2021-09-28 08:23:15,384 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-core: com.pi4j:pi4j-core:1.0 with classifier  to /pi4j-core/target/classes
+2021-09-28 08:23:15,418 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pi4j:pi4j-device:1.0 @ D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-device\pom.xml.
+2021-09-28 08:23:15,422 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-core: com.pi4j:pi4j-core:1.0 with classifier  to /pi4j-core/target/classes
+2021-09-28 08:23:15,422 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-gpio-extension: com.pi4j:pi4j-gpio-extension:1.0 with classifier  to /pi4j-gpio-extension/target/classes
+2021-09-28 08:23:15,456 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pi4j:pi4j-example:1.0 @ D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-example\pom.xml.
+2021-09-28 08:23:15,459 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-core: com.pi4j:pi4j-core:1.0 with classifier  to /pi4j-core/target/classes
+2021-09-28 08:23:15,460 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-gpio-extension: com.pi4j:pi4j-gpio-extension:1.0 with classifier  to /pi4j-gpio-extension/target/classes
+2021-09-28 08:23:15,460 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-device: com.pi4j:pi4j-device:1.0 with classifier  to /pi4j-device/target/classes
+2021-09-28 08:23:15,502 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.pi4j:pi4j-service:1.0 @ D:\Dev\Ybs\deneme2\META-INF\maven\com.pi4j\pi4j-service\pom.xml.
+2021-09-28 08:23:15,504 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pi4j-core: com.pi4j:pi4j-core:1.0 with classifier  to /pi4j-core/target/classes
